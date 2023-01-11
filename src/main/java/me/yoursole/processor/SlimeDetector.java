@@ -37,5 +37,4 @@ public record SlimeDetector(BufferedImage image) {
             }
         }
     }
-
 }
